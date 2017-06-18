@@ -9,6 +9,7 @@ namespace AlfredoLotar.Livro.AspnetMvc
         public int CidadeID { get; set; }
         public string Nome { get; set; }
         public string Estado { get; set; }
+        public string Telefone { get; set; }
     }
 }
 
